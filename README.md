@@ -3,7 +3,7 @@ Chat application with python, flask, postgresql
 
 Link to the app - https://navrun.herokuapp.com/
 
-Things to work on - 
+Future works - 
   - Broadcasting initial users name to new users
   - Adding personal chat features
   - Removing users from online chat when they logout
